@@ -28,8 +28,7 @@
 ## 1️⃣ 개발 환경
 
 - 개발 툴 : Xcode
-- Web Front : [Web Git](https://github.com/encore-full-stack-5/bootjar_TODO_FE)
-- Back-end : MSA 서버
+- Web Front & Back-end: [Web Git](https://github.com/encore-full-stack-5/bootjar_TODO_FE)
 - 버전 및 이슈관리 : Github
 - 협업 툴 : Notion, Github, Github Wiki, Google Sheets(WBS)
 - 서버 통신 : Alamofire
