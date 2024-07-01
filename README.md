@@ -29,7 +29,7 @@
 
 - 개발 툴 : Xcode
 - Web Front : [Web Git](https://github.com/encore-full-stack-5/bootjar_TODO_FE)
-- Back-end : 깃 주소 달기
+- Back-end : MSA 서버
 - 버전 및 이슈관리 : Github
 - 협업 툴 : Notion, Github, Github Wiki, Google Sheets(WBS)
 - 서버 통신 : Alamofire
